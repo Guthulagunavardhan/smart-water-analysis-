@@ -34,7 +34,7 @@ Traditional water meters have limitations when it comes to reducing water wastag
 1. Clone this repository to your local machine using the following command:
 
    ```
-
+     https://github.com/Guthulagunavardhan/smart-water-analysis-/tree/main
    ```
 
 2. Open the project in your preferred code editor.
