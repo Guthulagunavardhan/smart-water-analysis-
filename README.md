@@ -34,7 +34,7 @@ Traditional water meters have limitations when it comes to reducing water wastag
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/Harsha-Vardhan-Tangudu/smart-water-meter-data-analysis.git
+
    ```
 
 2. Open the project in your preferred code editor.
@@ -67,6 +67,6 @@ We appreciate your time and effort in helping us improve this project!
 
 If you have any questions, suggestions, or would like to collaborate on this project, please feel free to reach out to us:
 
-- Tangudu Harsha Vardhan: [[LinkedIn](https://www.linkedin.com/in/harsha-vardhan-tangudu)](https://www.linkedin.com/in/tangudu-harsha-vardhan-2714971aa/)
+- guna vardhan: email guna.guttula@gmail.com 
 
 Let's work together to make a positive impact on water management and conservation!
